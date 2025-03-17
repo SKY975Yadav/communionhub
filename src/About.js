@@ -15,7 +15,7 @@ const About = () => {
       </header>
 
       <section className="about-section">
-        <h1>About Communion App</h1>
+        <h1>About Communion Hub App</h1>
         <p>
           Welcome to the Communion App, a platform dedicated to connecting people of all faiths and interests through meaningful events and community support. Our mission is to foster unity, understanding, and collaboration among diverse communities.
         </p>
