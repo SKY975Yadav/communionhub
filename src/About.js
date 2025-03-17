@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="about-page">
       <header>
-        <div className="logo">Communion App</div>
+        <div className="logo">Communion Hub</div>
         <nav>
           <ul>
             <li><a href="/">Home</a></li>

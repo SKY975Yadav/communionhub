@@ -19,7 +19,7 @@ const Events = () => {
   return (
     <div className="events-page">
       <header>
-        <div className="logo">Communion App</div>
+        <div className="logo">Communion Hub</div>
         <nav>
           <ul>
             <li><a href="/">Home</a></li>
