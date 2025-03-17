@@ -33,15 +33,15 @@ const About = () => {
         <h2>Meet the Team</h2>
         <div className="team-members">
           <div className="team-member">
-            <h3>John Doe</h3>
+            <h3>G SaiKrishna</h3>
             <p>Founder & CEO</p>
           </div>
           <div className="team-member">
-            <h3>Jane Smith</h3>
+            <h3>G Saikrishna</h3>
             <p>Lead Developer</p>
           </div>
           <div className="team-member">
-            <h3>Alice Johnson</h3>
+            <h3>G Sanjeev Kumar</h3>
             <p>Community Manager</p>
           </div>
         </div>
